@@ -1,0 +1,58 @@
+about:
+  description: The Kubernetes Package Manager
+  license: Apache-2.0
+  homepage: https://helm.sh
+  head: d2de64e
+  archived: false
+  latestVersion: v3.21.4
+  collectedAt: 2026-08-29T07:28:03Z
+timeline:
+  created: 2015-10-06
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-14
+popularity:
+  star: 30185
+  watcher: 495
+  fork: 7766
+  release: 251
+  contributor: 852
+  pullRequest: 2342
+  issue: 8489
+language:
+  Go: 3174731
+  Shell: 41812
+  Makefile: 8616
+totalLine: 3225159
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 28
+    openPR: 34
+    closedIssue: 2
+    openIssue: 18
+    commit: 18
+  last90d:
+    since: 2026-05-31
+    release: 8
+    mergedPR: 182
+    openPR: 121
+    closedIssue: 16
+    openIssue: 59
+    commit: 168
+  last180d:
+    since: 2026-03-02
+    release: 14
+    mergedPR: 287
+    openPR: 157
+    closedIssue: 54
+    openIssue: 77
+    commit: 299
+  last360d:
+    since: 2025-09-03
+    release: 34
+    mergedPR: 578
+    openPR: 183
+    closedIssue: 218
+    openIssue: 110
+    commit: 666
