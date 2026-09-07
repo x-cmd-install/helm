@@ -5,13 +5,13 @@ about:
   head: fa11636
   archived: false
   latestVersion: "v3.22.0-rc.1"
-  collectedAt: 2026-09-07T05:45:50Z
+  collectedAt: 2026-09-07T18:49:28Z
 timeline:
   created: 2015-10-06
   lastCommit: 2026-09-02
   lastRelease: 2026-08-31
 popularity:
-  star: 30219
+  star: 30223
   watcher: 499
   fork: 7781
   release: 253
@@ -81,7 +81,7 @@ total:
   commit: 9974
 ---
 path: /home/runner/.x-repo/github.com/helm/helm
-collectedAt: 2026-09-07T05:45:54Z
+collectedAt: 2026-09-07T18:49:33Z
 loc:
   Go:
     code: 78058
@@ -287,7 +287,7 @@ checks:
       - 'Info: found contributions from: DataDog, IBM, LearningDrupal7Development, Masterminds, NYCK8S, ProgressiveCoders, RevolvInc, SUSE, aiopsclub, akamai technologies, akuity, bloomberg lp, chainguard-images, chartmuseum, cnabio, containernativelabs, datadog, deis, deislabs, dragonflyoss, fermyon, fluxcd, getporter, gitops-working-group, gluster, google, grit-engine, hashivault, helm, helmfile, ibm, intel, istio, jaegertracing, krustlet, kubernetes, kubernetes @helmfile @gitlab.cn @helm @dragonflyoss, kubernetes-helm, kubernetes-sigs, kubewarden, lookout ventures, nvidia, open-gitops, oras-project, pivotal-cf, prometheus-community, red hat, replicated, replicatedhq, rspec, spinkube, suse @rancher, szlabs, university of dayton research institute, vmware by broadcom, wolfi-dev, yaml, zarf-dev'
 ---
 eget:
-  collectedAt: 2026-09-07T05:45:55+00:00
+  collectedAt: 2026-09-07T18:49:34+00:00
   platform:
     darwin/arm64:
       name:  null
