@@ -1,60 +1,60 @@
 # helm
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 The Kubernetes Package Manager
 
-![helm](https://repo.x-cmd.io/helm.svg)
+![helm](https://repo.x-cmd.io/helm.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install helm
 ```
 
-## Code insight
+## 代码洞察
 
-Total: **88,247** lines of code across **1316** files in the top 5 languages.
+合计: **88,247** 行代码（覆盖前 5 种语言、共 **1316** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 78,058 | 16,069 | 12,773 | 542 |
 | Yaml | 7,633 | 826 | 367 | 700 |
 | Bash | 728 | 131 | 83 | 3 |
 | Pan | 623 | 4 | 101 | 53 |
 | Json | 563 | 0 | 0 | 18 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **9.1 / 10**
+总评分: **9.1 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/helm/helm>
-- **Homepage**: <https://helm.sh>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/helm/helm>
+- **官网**: <https://helm.sh>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `v3.22.0` (2026-09-10)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 36
+- **最新版本**: `v3.22.0` (2026-09-10)
+- **最近提交**: 2026-09-09
+- **Release 含资产**: 36 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 30,232 · **Forks**: 7,784 · **Open issues**: 8,495 · **Contributors**: 853
+- **Star**: 30,232 · **Fork**: 7,784 · **开放 issue**: 8,495 · **贡献者**: 853
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 255 · **Merged PRs**: 4772 · **Open PRs**: 203 · **Closed issues**: 8237 · **Open issues**: 258 · **Commits**: 9978
+- **发布数**: 255 · **已合并 PR**: 4772 · **开放 PR**: 203 · **已关闭 issue**: 8237 · **开放 issue**: 258 · **提交数**: 9978
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-12 | 6 | 37 | 46 | 3 | 14 | 28 |
 | last60d | 2026-07-13 | 6 | 129 | 93 | 8 | 41 | 108 |
@@ -63,10 +63,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-16 | 36 | 570 | 189 | 211 | 109 | 645 |
 | last720d | 2024-09-21 | 57 | 1061 | 193 | 558 | 132 | 2364 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [helm-v4.3.0-darwin-amd64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-amd64.tar.gz.asc) | 870 B | `native/darwin/x64` |
 | [helm-v4.3.0-darwin-amd64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-amd64.tar.gz.sha256.asc) | 870 B | `native/darwin/x64` |
 | [helm-v4.3.0-darwin-amd64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-amd64.tar.gz.sha256sum.asc) | 870 B | `native/darwin/x64` |
@@ -104,13 +104,13 @@ Lowest-scoring checks:
 | [helm-v4.3.0-windows-arm64.zip.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-windows-arm64.zip.sha256.asc) | 870 B | `native/win/arm64` |
 | [helm-v4.3.0-windows-arm64.zip.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-windows-arm64.zip.sha256sum.asc) | 870 B | `native/win/arm64` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for helm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `helm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+helm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `helm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/helm.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/helm.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:09:16Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:09:17Z._
