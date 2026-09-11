@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.22.0"
   latestRelease: "v3.22.0"
   latestPrerelease: "v3.22.0-rc.1"
-  collectedAt: 2026-09-11T00:09:09Z
+  collectedAt: 2026-09-11T05:54:52Z
 timeline:
   created: 2015-10-06
   lastCommit: 2026-09-09
@@ -85,7 +85,7 @@ total:
   commit: 9978
 ---
 path: /home/runner/.x-repo/github.com/helm/helm
-collectedAt: 2026-09-11T00:09:13Z
+collectedAt: 2026-09-11T05:55:00Z
 loc:
   Go:
     code: 78058
