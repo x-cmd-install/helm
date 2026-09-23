@@ -4,7 +4,7 @@
 
 The Kubernetes Package Manager
 
-[![x-cmd/install — helm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/helm.svg?lang=zh)](https://x-cmd.com/install/helm)
+[![x-cmd/install — helm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/helm.svg?lang=zh)](https://x-cmd.com/install/helm)
 
 ## 安装
 
@@ -41,27 +41,27 @@ x install helm
 ## 发布
 
 - **最新版本**: `v3.22.0` (2026-09-10)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 36 个
 
 ## 流行度
 
-- **Star**: 30,269 · **Fork**: 7,794 · **开放 issue**: 8,504 · **贡献者**: 853
+- **Star**: 30,275 · **Fork**: 7,795 · **开放 issue**: 8,504 · **贡献者**: 853
 
 ## 累计统计
 
-- **发布数**: 255 · **已合并 PR**: 4790 · **开放 PR**: 209 · **已关闭 issue**: 8245 · **开放 issue**: 259 · **提交数**: 9993
+- **发布数**: 255 · **已合并 PR**: 4792 · **开放 PR**: 209 · **已关闭 issue**: 8245 · **开放 issue**: 259 · **提交数**: 9994
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 43 | 45 | 3 | 12 | 31 |
-| last60d | 2026-07-24 | 6 | 71 | 81 | 6 | 33 | 49 |
-| 90d | 2026-06-24 | 8 | 189 | 120 | 16 | 55 | 165 |
-| last180d | 2026-03-26 | 16 | 302 | 172 | 48 | 77 | 285 |
-| 360d | 2025-09-27 | 36 | 568 | 196 | 204 | 111 | 633 |
-| last720d | 2024-10-02 | 57 | 1073 | 199 | 554 | 134 | 2362 |
+| 30d | 2026-08-24 | 4 | 40 | 43 | 3 | 12 | 32 |
+| last60d | 2026-07-25 | 6 | 73 | 77 | 6 | 33 | 50 |
+| 90d | 2026-06-25 | 8 | 191 | 117 | 16 | 54 | 166 |
+| last180d | 2026-03-27 | 16 | 302 | 171 | 48 | 77 | 286 |
+| 360d | 2025-09-28 | 36 | 570 | 196 | 202 | 111 | 634 |
+| last720d | 2024-10-03 | 57 | 1073 | 199 | 553 | 134 | 2362 |
 
 ## Release 资产
 
@@ -113,4 +113,4 @@ helm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:25:31Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:22:28Z._

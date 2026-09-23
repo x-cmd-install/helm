@@ -4,7 +4,7 @@
 
 The Kubernetes Package Manager
 
-[![x-cmd/install — helm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/helm.svg)](https://x-cmd.com/install/helm)
+[![x-cmd/install — helm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/helm.svg)](https://x-cmd.com/install/helm)
 
 ## Install
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.22.0` (2026-09-10)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 30,269 · **Forks**: 7,794 · **Open issues**: 8,504 · **Contributors**: 853
+- **Stars**: 30,275 · **Forks**: 7,795 · **Open issues**: 8,504 · **Contributors**: 853
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 4790 · **Open PRs**: 209 · **Closed issues**: 8245 · **Open issues**: 259 · **Commits**: 9993
+- **Releases**: 255 · **Merged PRs**: 4792 · **Open PRs**: 209 · **Closed issues**: 8245 · **Open issues**: 259 · **Commits**: 9994
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 43 | 45 | 3 | 12 | 31 |
-| last60d | 2026-07-24 | 6 | 71 | 81 | 6 | 33 | 49 |
-| 90d | 2026-06-24 | 8 | 189 | 120 | 16 | 55 | 165 |
-| last180d | 2026-03-26 | 16 | 302 | 172 | 48 | 77 | 285 |
-| 360d | 2025-09-27 | 36 | 568 | 196 | 204 | 111 | 633 |
-| last720d | 2024-10-02 | 57 | 1073 | 199 | 554 | 134 | 2362 |
+| 30d | 2026-08-24 | 4 | 40 | 43 | 3 | 12 | 32 |
+| last60d | 2026-07-25 | 6 | 73 | 77 | 6 | 33 | 50 |
+| 90d | 2026-06-25 | 8 | 191 | 117 | 16 | 54 | 166 |
+| last180d | 2026-03-27 | 16 | 302 | 171 | 48 | 77 | 286 |
+| 360d | 2025-09-28 | 36 | 570 | 196 | 202 | 111 | 634 |
+| last720d | 2024-10-03 | 57 | 1073 | 199 | 553 | 134 | 2362 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for helm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:25:29Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:22:27Z._
