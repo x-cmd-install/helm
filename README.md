@@ -14,11 +14,11 @@ x install helm
 
 ## Code insight
 
-Total: **91,085** lines of code across **1332** files in the top 5 languages.
+Total: **91,084** lines of code across **1332** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 80,896 | 16,648 | 13,298 | 558 |
+| Go | 80,895 | 16,648 | 13,298 | 558 |
 | Yaml | 7,633 | 826 | 367 | 700 |
 | Bash | 728 | 131 | 83 | 3 |
 | Pan | 623 | 4 | 101 | 53 |
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.22.0` (2026-09-10)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 30,295 · **Forks**: 7,809 · **Open issues**: 8,508 · **Contributors**: 853
+- **Stars**: 30,295 · **Forks**: 7,814 · **Open issues**: 8,509 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 4800 · **Open PRs**: 214 · **Closed issues**: 8246 · **Open issues**: 262 · **Commits**: 9998
+- **Releases**: 255 · **Merged PRs**: 4802 · **Open PRs**: 215 · **Closed issues**: 8248 · **Open issues**: 261 · **Commits**: 10001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 34 | 43 | 1 | 14 | 22 |
-| last60d | 2026-08-01 | 6 | 75 | 74 | 5 | 30 | 53 |
-| 90d | 2026-07-02 | 8 | 195 | 125 | 14 | 54 | 162 |
-| last180d | 2026-04-03 | 16 | 302 | 176 | 44 | 80 | 284 |
-| 360d | 2025-10-05 | 36 | 571 | 199 | 199 | 114 | 626 |
-| last720d | 2024-10-10 | 56 | 1074 | 204 | 550 | 137 | 2338 |
+| 30d | 2026-09-01 | 2 | 35 | 40 | 1 | 14 | 26 |
+| last60d | 2026-08-02 | 6 | 77 | 74 | 6 | 29 | 73 |
+| 90d | 2026-07-03 | 8 | 195 | 126 | 14 | 53 | 248 |
+| last180d | 2026-04-04 | 16 | 304 | 177 | 46 | 79 | 495 |
+| 360d | 2025-10-06 | 36 | 572 | 200 | 201 | 113 | 1075 |
+| last720d | 2024-10-11 | 56 | 1074 | 205 | 550 | 136 | 2341 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for helm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:38:39Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:54:53Z._
