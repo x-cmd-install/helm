@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 30,299 · **Forks**: 7,821 · **Open issues**: 8,513 · **Contributors**: 855
+- **Stars**: 30,299 · **Forks**: 7,821 · **Open issues**: 8,514 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 255 · **Merged PRs**: 4802 · **Open PRs**: 220 · **Closed issues**: 8250 · **Open issues**: 263 · **Commits**: 10001
+- **Releases**: 255 · **Merged PRs**: 4802 · **Open PRs**: 218 · **Closed issues**: 8250 · **Open issues**: 264 · **Commits**: 10001
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 2 | 34 | 40 | 2 | 16 | 26 |
-| last60d | 2026-08-04 | 6 | 75 | 78 | 6 | 32 | 73 |
-| 90d | 2026-07-05 | 8 | 195 | 130 | 15 | 56 | 248 |
-| last180d | 2026-04-06 | 16 | 300 | 180 | 44 | 82 | 495 |
-| 360d | 2025-10-08 | 36 | 564 | 205 | 200 | 116 | 1075 |
-| last720d | 2024-10-13 | 56 | 1074 | 210 | 551 | 139 | 2339 |
+| 30d | 2026-09-04 | 2 | 34 | 35 | 2 | 15 | 22 |
+| last60d | 2026-08-05 | 6 | 75 | 78 | 6 | 32 | 64 |
+| 90d | 2026-07-06 | 8 | 191 | 130 | 15 | 57 | 206 |
+| last180d | 2026-04-07 | 16 | 299 | 179 | 44 | 83 | 451 |
+| 360d | 2025-10-09 | 36 | 562 | 203 | 199 | 117 | 1036 |
+| last720d | 2024-10-14 | 56 | 1073 | 208 | 551 | 140 | 2338 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for helm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:16:47Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:48:09Z._
