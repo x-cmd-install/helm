@@ -26,12 +26,11 @@ x install helm
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.8 / 10**
+总评分: **9.2 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
 
 ## 源代码
 
@@ -41,69 +40,69 @@ x install helm
 
 ## 发布
 
-- **最新版本**: `v3.22.0` (2026-09-10)
-- **最近提交**: 2026-10-06
+- **最新版本**: `v4.3.1` (2026-10-15)
+- **最近提交**: 2026-10-14
 - **Release 含资产**: 36 个
 
 ## 流行度
 
-- **Star**: 30,318 · **Fork**: 7,833 · **开放 issue**: 8,519 · **贡献者**: 855
+- **Star**: 30,326 · **Fork**: 7,832 · **开放 issue**: 8,519 · **贡献者**: 855
 
 ## 累计统计
 
-- **发布数**: 255 · **已合并 PR**: 4807 · **开放 PR**: 232 · **已关闭 issue**: 8253 · **开放 issue**: 266 · **提交数**: 10006
+- **发布数**: 256 · **已合并 PR**: 4814 · **开放 PR**: 219 · **已关闭 issue**: 8256 · **开放 issue**: 263 · **提交数**: 10010
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 27 | 57 | 3 | 16 | 16 |
-| last60d | 2026-08-15 | 4 | 67 | 100 | 7 | 26 | 64 |
-| 90d | 2026-07-16 | 6 | 142 | 145 | 12 | 55 | 179 |
-| last180d | 2026-04-17 | 14 | 286 | 197 | 44 | 83 | 445 |
-| 360d | 2025-10-19 | 35 | 553 | 221 | 195 | 119 | 1008 |
-| last720d | 2024-10-24 | 56 | 1070 | 225 | 543 | 142 | 2321 |
+| 30d | 2026-09-15 | 1 | 32 | 48 | 2 | 16 | 20 |
+| last60d | 2026-08-16 | 5 | 74 | 89 | 8 | 25 | 68 |
+| 90d | 2026-07-17 | 7 | 149 | 134 | 12 | 53 | 183 |
+| last180d | 2026-04-18 | 15 | 293 | 184 | 47 | 80 | 449 |
+| 360d | 2025-10-20 | 36 | 558 | 208 | 198 | 116 | 1012 |
+| last720d | 2024-10-25 | 57 | 1077 | 212 | 546 | 139 | 2320 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [helm-v4.3.0-darwin-amd64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-amd64.tar.gz.asc) | 870 B | `native/darwin/x64` |
-| [helm-v4.3.0-darwin-amd64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-amd64.tar.gz.sha256.asc) | 870 B | `native/darwin/x64` |
-| [helm-v4.3.0-darwin-amd64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-amd64.tar.gz.sha256sum.asc) | 870 B | `native/darwin/x64` |
-| [helm-v4.3.0-darwin-arm64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-arm64.tar.gz.asc) | 870 B | `native/darwin/arm64` |
-| [helm-v4.3.0-darwin-arm64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-arm64.tar.gz.sha256.asc) | 870 B | `native/darwin/arm64` |
-| [helm-v4.3.0-darwin-arm64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-darwin-arm64.tar.gz.sha256sum.asc) | 870 B | `native/darwin/arm64` |
-| [helm-v4.3.0-linux-386.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-386.tar.gz.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-386.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-386.tar.gz.sha256.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-386.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-386.tar.gz.sha256sum.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-amd64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-amd64.tar.gz.asc) | 870 B | `native/linux/x64` |
-| [helm-v4.3.0-linux-amd64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-amd64.tar.gz.sha256.asc) | 870 B | `native/linux/x64` |
-| [helm-v4.3.0-linux-amd64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-amd64.tar.gz.sha256sum.asc) | 870 B | `native/linux/x64` |
-| [helm-v4.3.0-linux-arm.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-arm.tar.gz.asc) | 870 B | `native/linux/arm` |
-| [helm-v4.3.0-linux-arm.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-arm.tar.gz.sha256.asc) | 870 B | `native/linux/arm` |
-| [helm-v4.3.0-linux-arm.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-arm.tar.gz.sha256sum.asc) | 870 B | `native/linux/arm` |
-| [helm-v4.3.0-linux-arm64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-arm64.tar.gz.asc) | 870 B | `native/linux/arm64` |
-| [helm-v4.3.0-linux-arm64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-arm64.tar.gz.sha256.asc) | 870 B | `native/linux/arm64` |
-| [helm-v4.3.0-linux-arm64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-arm64.tar.gz.sha256sum.asc) | 870 B | `native/linux/arm64` |
-| [helm-v4.3.0-linux-loong64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-loong64.tar.gz.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-loong64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-loong64.tar.gz.sha256.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-loong64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-loong64.tar.gz.sha256sum.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-ppc64le.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-ppc64le.tar.gz.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-ppc64le.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-ppc64le.tar.gz.sha256.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-ppc64le.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-ppc64le.tar.gz.sha256sum.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-riscv64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-riscv64.tar.gz.asc) | 870 B | `native/linux/riscv64` |
-| [helm-v4.3.0-linux-riscv64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-riscv64.tar.gz.sha256.asc) | 870 B | `native/linux/riscv64` |
-| [helm-v4.3.0-linux-riscv64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-riscv64.tar.gz.sha256sum.asc) | 870 B | `native/linux/riscv64` |
-| [helm-v4.3.0-linux-s390x.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-s390x.tar.gz.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-s390x.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-s390x.tar.gz.sha256.asc) | 870 B | `other` |
-| [helm-v4.3.0-linux-s390x.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-linux-s390x.tar.gz.sha256sum.asc) | 870 B | `other` |
-| [helm-v4.3.0-windows-amd64.zip.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-windows-amd64.zip.asc) | 870 B | `native/win/x64` |
-| [helm-v4.3.0-windows-amd64.zip.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-windows-amd64.zip.sha256.asc) | 870 B | `native/win/x64` |
-| [helm-v4.3.0-windows-amd64.zip.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-windows-amd64.zip.sha256sum.asc) | 870 B | `native/win/x64` |
-| [helm-v4.3.0-windows-arm64.zip.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-windows-arm64.zip.asc) | 870 B | `native/win/arm64` |
-| [helm-v4.3.0-windows-arm64.zip.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-windows-arm64.zip.sha256.asc) | 870 B | `native/win/arm64` |
-| [helm-v4.3.0-windows-arm64.zip.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.0/helm-v4.3.0-windows-arm64.zip.sha256sum.asc) | 870 B | `native/win/arm64` |
+| [helm-v4.3.1-darwin-amd64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-amd64.tar.gz.asc) | 870 B | `native/darwin/x64` |
+| [helm-v4.3.1-darwin-amd64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-amd64.tar.gz.sha256.asc) | 870 B | `native/darwin/x64` |
+| [helm-v4.3.1-darwin-amd64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-amd64.tar.gz.sha256sum.asc) | 870 B | `native/darwin/x64` |
+| [helm-v4.3.1-darwin-arm64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-arm64.tar.gz.asc) | 870 B | `native/darwin/arm64` |
+| [helm-v4.3.1-darwin-arm64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-arm64.tar.gz.sha256.asc) | 870 B | `native/darwin/arm64` |
+| [helm-v4.3.1-darwin-arm64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-arm64.tar.gz.sha256sum.asc) | 870 B | `native/darwin/arm64` |
+| [helm-v4.3.1-linux-386.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-386.tar.gz.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-386.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-386.tar.gz.sha256.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-386.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-386.tar.gz.sha256sum.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-amd64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-amd64.tar.gz.asc) | 870 B | `native/linux/x64` |
+| [helm-v4.3.1-linux-amd64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-amd64.tar.gz.sha256.asc) | 870 B | `native/linux/x64` |
+| [helm-v4.3.1-linux-amd64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-amd64.tar.gz.sha256sum.asc) | 870 B | `native/linux/x64` |
+| [helm-v4.3.1-linux-arm.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm.tar.gz.asc) | 870 B | `native/linux/arm` |
+| [helm-v4.3.1-linux-arm.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm.tar.gz.sha256.asc) | 870 B | `native/linux/arm` |
+| [helm-v4.3.1-linux-arm.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm.tar.gz.sha256sum.asc) | 870 B | `native/linux/arm` |
+| [helm-v4.3.1-linux-arm64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm64.tar.gz.asc) | 870 B | `native/linux/arm64` |
+| [helm-v4.3.1-linux-arm64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm64.tar.gz.sha256.asc) | 870 B | `native/linux/arm64` |
+| [helm-v4.3.1-linux-arm64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm64.tar.gz.sha256sum.asc) | 870 B | `native/linux/arm64` |
+| [helm-v4.3.1-linux-loong64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-loong64.tar.gz.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-loong64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-loong64.tar.gz.sha256.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-loong64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-loong64.tar.gz.sha256sum.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-ppc64le.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-ppc64le.tar.gz.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-ppc64le.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-ppc64le.tar.gz.sha256.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-ppc64le.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-ppc64le.tar.gz.sha256sum.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-riscv64.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-riscv64.tar.gz.asc) | 870 B | `native/linux/riscv64` |
+| [helm-v4.3.1-linux-riscv64.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-riscv64.tar.gz.sha256.asc) | 870 B | `native/linux/riscv64` |
+| [helm-v4.3.1-linux-riscv64.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-riscv64.tar.gz.sha256sum.asc) | 870 B | `native/linux/riscv64` |
+| [helm-v4.3.1-linux-s390x.tar.gz.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-s390x.tar.gz.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-s390x.tar.gz.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-s390x.tar.gz.sha256.asc) | 870 B | `other` |
+| [helm-v4.3.1-linux-s390x.tar.gz.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-s390x.tar.gz.sha256sum.asc) | 870 B | `other` |
+| [helm-v4.3.1-windows-amd64.zip.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-amd64.zip.asc) | 870 B | `native/win/x64` |
+| [helm-v4.3.1-windows-amd64.zip.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-amd64.zip.sha256.asc) | 870 B | `native/win/x64` |
+| [helm-v4.3.1-windows-amd64.zip.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-amd64.zip.sha256sum.asc) | 870 B | `native/win/x64` |
+| [helm-v4.3.1-windows-arm64.zip.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-arm64.zip.asc) | 870 B | `native/win/arm64` |
+| [helm-v4.3.1-windows-arm64.zip.sha256.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-arm64.zip.sha256.asc) | 870 B | `native/win/arm64` |
+| [helm-v4.3.1-windows-arm64.zip.sha256sum.asc](https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-arm64.zip.sha256sum.asc) | 870 B | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -114,4 +113,4 @@ helm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:58:43Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:44:17Z._
