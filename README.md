@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.22.1` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-16
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 30,326 · **Forks**: 7,831 · **Open issues**: 8,520 · **Contributors**: 855
+- **Stars**: 30,329 · **Forks**: 7,832 · **Open issues**: 8,521 · **Contributors**: 854
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4819 · **Open PRs**: 213 · **Closed issues**: 8256 · **Open issues**: 264 · **Commits**: 10011
+- **Releases**: 257 · **Merged PRs**: 4821 · **Open PRs**: 213 · **Closed issues**: 8256 · **Open issues**: 265 · **Commits**: 10012
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 36 | 46 | 2 | 17 | 21 |
-| last60d | 2026-08-17 | 6 | 74 | 84 | 7 | 26 | 69 |
-| 90d | 2026-07-18 | 8 | 154 | 128 | 12 | 54 | 184 |
-| last180d | 2026-04-19 | 16 | 296 | 178 | 47 | 81 | 450 |
-| 360d | 2025-10-21 | 37 | 562 | 202 | 198 | 117 | 1013 |
-| last720d | 2024-10-26 | 58 | 1082 | 206 | 546 | 140 | 2314 |
+| 30d | 2026-09-17 | 2 | 32 | 42 | 2 | 17 | 22 |
+| last60d | 2026-08-18 | 6 | 76 | 82 | 7 | 26 | 70 |
+| 90d | 2026-07-19 | 8 | 156 | 122 | 11 | 52 | 185 |
+| last180d | 2026-04-20 | 16 | 298 | 178 | 47 | 81 | 451 |
+| 360d | 2025-10-22 | 37 | 563 | 202 | 198 | 118 | 1014 |
+| last720d | 2024-10-27 | 58 | 1084 | 206 | 546 | 141 | 2315 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for helm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:38:44Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:24:30Z._
