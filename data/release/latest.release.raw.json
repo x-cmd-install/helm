@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:03f1158f5818f089d7bead7840ee2e57ecfa926ae67f44f1359beb957a4d7b99",
-      "download_count": 83,
+      "download_count": 97,
       "created_at": "2026-10-15T01:02:34Z",
       "updated_at": "2026-10-15T01:02:34Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-amd64.tar.gz.asc"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:a5696be3faaffd95758ac32f1c5a64ec143e0096378c03d4bcaf956a8579726a",
-      "download_count": 56,
+      "download_count": 62,
       "created_at": "2026-10-15T01:02:34Z",
       "updated_at": "2026-10-15T01:02:34Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-amd64.tar.gz.sha256.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:e89c28f3f545b8b6e435a2ec6965f7ff22afa2cc76da9cb075b265a8e4ef01eb",
-      "download_count": 44,
+      "download_count": 49,
       "created_at": "2026-10-15T01:02:34Z",
       "updated_at": "2026-10-15T01:02:34Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-amd64.tar.gz.sha256sum.asc"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:06aae5099f08d9eec51bfdba06dc863445323907e440e00d65fb53338ba0d78b",
-      "download_count": 66,
+      "download_count": 81,
       "created_at": "2026-10-15T01:02:34Z",
       "updated_at": "2026-10-15T01:02:35Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-arm64.tar.gz.asc"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:de7272695da932b45fdbc646a2de938bcb680bf940edeabc28c4e9089490628b",
-      "download_count": 31,
+      "download_count": 37,
       "created_at": "2026-10-15T01:02:35Z",
       "updated_at": "2026-10-15T01:02:35Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-arm64.tar.gz.sha256.asc"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:9ea90db9375f3f134959f34bf1ec41b13ec8382ff7b7a5a776314b0397128da3",
-      "download_count": 34,
+      "download_count": 40,
       "created_at": "2026-10-15T01:02:35Z",
       "updated_at": "2026-10-15T01:02:35Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-darwin-arm64.tar.gz.sha256sum.asc"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:052877ff984ec3845494cde0dd58b4f57e6fab9772da6ff0175b0af368de446d",
-      "download_count": 55,
+      "download_count": 61,
       "created_at": "2026-10-15T01:02:35Z",
       "updated_at": "2026-10-15T01:02:35Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-386.tar.gz.asc"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:ee4ad311cf6015fdcfbf576c0672ecc5f3abee9289855a7ee6bcc0f462989601",
-      "download_count": 45,
+      "download_count": 50,
       "created_at": "2026-10-15T01:02:35Z",
       "updated_at": "2026-10-15T01:02:35Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-386.tar.gz.sha256.asc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:0167697a04be3af06a6e359be17a50ddfce48276b0274a2768805851defa0c75",
-      "download_count": 43,
+      "download_count": 48,
       "created_at": "2026-10-15T01:02:35Z",
       "updated_at": "2026-10-15T01:02:35Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-386.tar.gz.sha256sum.asc"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:b69ae454d14a544388ca96543d193c36902f7ebe5c4bb5f79d1c0d42bd7edc38",
-      "download_count": 3351,
+      "download_count": 3901,
       "created_at": "2026-10-15T01:02:35Z",
       "updated_at": "2026-10-15T01:02:36Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-amd64.tar.gz.asc"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:2667072033dfa0d2f0f36b585569c39dfbcbbd21ea2119bfd776514494f99c98",
-      "download_count": 2721,
+      "download_count": 3110,
       "created_at": "2026-10-15T01:02:36Z",
       "updated_at": "2026-10-15T01:02:36Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-amd64.tar.gz.sha256.asc"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:a84c8ce284e3b00034f4ce0782c3f77bbef261cc0aa553786c41e86bcc6fe05e",
-      "download_count": 230,
+      "download_count": 272,
       "created_at": "2026-10-15T01:02:36Z",
       "updated_at": "2026-10-15T01:02:36Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-amd64.tar.gz.sha256sum.asc"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:a1f5062e4fdc8167e4e6329e8ad781a5308335eb09c0456f176cd12c9081f9ac",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-10-15T01:02:36Z",
       "updated_at": "2026-10-15T01:02:36Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm.tar.gz.asc"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:94018f3f6e1212210f07a186aaee721ac1a6717c6d719b1ca8c151a418b2661d",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-10-15T01:02:36Z",
       "updated_at": "2026-10-15T01:02:36Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm.tar.gz.sha256.asc"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:f0006062f5e90510c8412d29b330331be54766ae58c070fae2f0a693f9be86df",
-      "download_count": 32,
+      "download_count": 36,
       "created_at": "2026-10-15T01:02:36Z",
       "updated_at": "2026-10-15T01:02:36Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm.tar.gz.sha256sum.asc"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:41d06feabfa2d66cec25835edb44735539e2a09a1999272e5fe03ea05df5a08b",
-      "download_count": 563,
+      "download_count": 659,
       "created_at": "2026-10-15T01:02:36Z",
       "updated_at": "2026-10-15T01:02:37Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm64.tar.gz.asc"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:b425a5a8d33d37292e633ee8bc632487711a22c98686d0bd94ab0bd67dbfbf0c",
-      "download_count": 498,
+      "download_count": 583,
       "created_at": "2026-10-15T01:02:37Z",
       "updated_at": "2026-10-15T01:02:37Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm64.tar.gz.sha256.asc"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:0864bceb3d5bc05c19a31c058a1af54b2f88441916f92644e9a34fe135834f15",
-      "download_count": 49,
+      "download_count": 55,
       "created_at": "2026-10-15T01:02:37Z",
       "updated_at": "2026-10-15T01:02:37Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-arm64.tar.gz.sha256sum.asc"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:6ef2b61620e011eca305ae1be8a429a6d7ecf9001d1c3fe97880d6bece098607",
-      "download_count": 32,
+      "download_count": 36,
       "created_at": "2026-10-15T01:02:37Z",
       "updated_at": "2026-10-15T01:02:37Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-loong64.tar.gz.asc"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:380095b2c6127d30f8c6eec3d48cb0a4aff32a07a400d9dcaf08a1d5937c7f28",
-      "download_count": 33,
+      "download_count": 37,
       "created_at": "2026-10-15T01:02:37Z",
       "updated_at": "2026-10-15T01:02:37Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-loong64.tar.gz.sha256.asc"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:aad1434c90f27b1c64b0b329bae214f6c5152afde0870ab67a16d21e2020d3ab",
-      "download_count": 33,
+      "download_count": 37,
       "created_at": "2026-10-15T01:02:37Z",
       "updated_at": "2026-10-15T01:02:38Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-loong64.tar.gz.sha256sum.asc"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:476a46a16cbd12d954179cabb6017c8c97286cc8bf126e9aa334002189236aaf",
-      "download_count": 32,
+      "download_count": 36,
       "created_at": "2026-10-15T01:02:38Z",
       "updated_at": "2026-10-15T01:02:38Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-ppc64le.tar.gz.asc"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:91ef2c9f90e0732081a2ec998df2c6e03bebeae29284755d344a2cab240f2603",
-      "download_count": 32,
+      "download_count": 36,
       "created_at": "2026-10-15T01:02:38Z",
       "updated_at": "2026-10-15T01:02:38Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-ppc64le.tar.gz.sha256.asc"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:8d48028150704b61b7689f3cb1c347951fa33c0bf49d9c49764d760169e6b472",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-10-15T01:02:38Z",
       "updated_at": "2026-10-15T01:02:38Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-ppc64le.tar.gz.sha256sum.asc"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:8463ddceacf8511f7c5af59c034160d730521028099c3e5fec04f8b49919b403",
-      "download_count": 35,
+      "download_count": 39,
       "created_at": "2026-10-15T01:02:38Z",
       "updated_at": "2026-10-15T01:02:38Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-riscv64.tar.gz.asc"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:ec3d842e54c58fb2c428c147bbfc1bc78f10147c959114ba887bbb47ed59efad",
-      "download_count": 33,
+      "download_count": 37,
       "created_at": "2026-10-15T01:02:38Z",
       "updated_at": "2026-10-15T01:02:38Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-riscv64.tar.gz.sha256.asc"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:bd3f095588b0bfddaaf2214314bfa712773ef71faf391d6fbdd5e44a1ca46014",
-      "download_count": 34,
+      "download_count": 38,
       "created_at": "2026-10-15T01:02:38Z",
       "updated_at": "2026-10-15T01:02:39Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-riscv64.tar.gz.sha256sum.asc"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:96a7f5d4e17eee157ec95c6acdb86d5dd853fc86c95cf585b7be9e1d83b0d633",
-      "download_count": 32,
+      "download_count": 37,
       "created_at": "2026-10-15T01:02:39Z",
       "updated_at": "2026-10-15T01:02:39Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-s390x.tar.gz.asc"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:aa79aebd487af6aadfb4ec50effa7fa7b8fb60abdb63885dc4d40ed4fbaa3e9e",
-      "download_count": 28,
+      "download_count": 32,
       "created_at": "2026-10-15T01:02:39Z",
       "updated_at": "2026-10-15T01:02:39Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-s390x.tar.gz.sha256.asc"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:70fd922c85a6ec189cecf1e6c745509773bc5e139cfd65afec6ff09d104e664d",
-      "download_count": 32,
+      "download_count": 36,
       "created_at": "2026-10-15T01:02:39Z",
       "updated_at": "2026-10-15T01:02:39Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-linux-s390x.tar.gz.sha256sum.asc"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:e6b7a29ff6a7489a635aac7e2475746029d43b66189728b9f1079596350480cb",
-      "download_count": 117,
+      "download_count": 136,
       "created_at": "2026-10-15T01:02:39Z",
       "updated_at": "2026-10-15T01:02:39Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-amd64.zip.asc"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:de75f40e0a6b23cc342b485c556f7aefab49c609972a0a6843ec903bc9c68d2f",
-      "download_count": 52,
+      "download_count": 57,
       "created_at": "2026-10-15T01:02:39Z",
       "updated_at": "2026-10-15T01:02:39Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-amd64.zip.sha256.asc"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:a3bdb78dabf36f8b14068351c481d7b88816f642cbb1e489fc328f72b0a53431",
-      "download_count": 42,
+      "download_count": 46,
       "created_at": "2026-10-15T01:02:39Z",
       "updated_at": "2026-10-15T01:02:40Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-amd64.zip.sha256sum.asc"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:fd913489003b02af9d9c2074bca41e3cb3f9b1e048b2648e3f64c92250449544",
-      "download_count": 52,
+      "download_count": 65,
       "created_at": "2026-10-15T01:02:40Z",
       "updated_at": "2026-10-15T01:02:40Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-arm64.zip.asc"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:046157a3e2a4ef637f2d7c81ba9149260508d0d499a216ff5b8c079fc250b08e",
-      "download_count": 22,
+      "download_count": 26,
       "created_at": "2026-10-15T01:02:40Z",
       "updated_at": "2026-10-15T01:02:40Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-arm64.zip.sha256.asc"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:84a6481c70f65907c55f1fe8cc0f2be4f1483de587acc627a3fffc0afedf1809",
-      "download_count": 21,
+      "download_count": 25,
       "created_at": "2026-10-15T01:02:40Z",
       "updated_at": "2026-10-15T01:02:40Z",
       "browser_download_url": "https://github.com/helm/helm/releases/download/v4.3.1/helm-v4.3.1-windows-arm64.zip.sha256sum.asc"
