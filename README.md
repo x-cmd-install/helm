@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.22.1` (2026-10-15)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-10
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 30,403 · **Forks**: 7,960 · **Open issues**: 8,533 · **Contributors**: 858
+- **Stars**: 30,410 · **Forks**: 7,972 · **Open issues**: 8,538 · **Contributors**: 858
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4844 · **Open PRs**: 241 · **Closed issues**: 8267 · **Open issues**: 266 · **Commits**: 10030
+- **Releases**: 257 · **Merged PRs**: 4848 · **Open PRs**: 250 · **Closed issues**: 8267 · **Open issues**: 271 · **Commits**: 10032
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 29 | 65 | 1 | 16 | 20 |
-| last60d | 2026-09-09 | 4 | 69 | 98 | 5 | 30 | 47 |
-| 90d | 2026-08-10 | 8 | 107 | 138 | 11 | 42 | 92 |
-| last180d | 2026-05-12 | 16 | 302 | 210 | 45 | 81 | 403 |
-| 360d | 2025-11-13 | 32 | 551 | 232 | 178 | 110 | 926 |
-| last720d | 2024-11-18 | 57 | 1092 | 234 | 535 | 142 | 2303 |
+| 30d | 2026-10-11 | 2 | 34 | 78 | 1 | 20 | 22 |
+| last60d | 2026-09-11 | 2 | 68 | 110 | 5 | 35 | 49 |
+| 90d | 2026-08-12 | 8 | 111 | 149 | 11 | 46 | 94 |
+| last180d | 2026-05-14 | 16 | 305 | 221 | 44 | 86 | 405 |
+| 360d | 2025-11-15 | 32 | 552 | 242 | 172 | 115 | 928 |
+| last720d | 2024-11-20 | 57 | 1095 | 244 | 529 | 147 | 2289 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for helm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:03:48Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:33:11Z._
