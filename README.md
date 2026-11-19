@@ -26,7 +26,7 @@ Total: **91,765** lines of code across **1336** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **9.2 / 10**
+Overall score: **9.3 / 10**
 
 Lowest-scoring checks:
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.3.2` (2026-11-13)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-18
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 30,430 · **Forks**: 7,980 · **Open issues**: 8,541 · **Contributors**: 858
+- **Stars**: 30,437 · **Forks**: 7,984 · **Open issues**: 8,544 · **Contributors**: 859
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 4864 · **Open PRs**: 242 · **Closed issues**: 8274 · **Open issues**: 267 · **Commits**: 10043
+- **Releases**: 258 · **Merged PRs**: 4868 · **Open PRs**: 237 · **Closed issues**: 8277 · **Open issues**: 267 · **Commits**: 10046
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 39 | 68 | 2 | 19 | 28 |
-| last60d | 2026-09-18 | 3 | 72 | 110 | 5 | 34 | 49 |
-| 90d | 2026-08-19 | 7 | 117 | 147 | 10 | 44 | 99 |
-| last180d | 2026-05-21 | 15 | 313 | 215 | 46 | 83 | 398 |
-| 360d | 2025-11-22 | 33 | 548 | 234 | 164 | 109 | 903 |
-| last720d | 2024-11-27 | 58 | 1103 | 237 | 531 | 142 | 2290 |
+| 30d | 2026-10-20 | 1 | 40 | 64 | 2 | 22 | 31 |
+| last60d | 2026-09-20 | 3 | 76 | 113 | 4 | 38 | 52 |
+| 90d | 2026-08-21 | 7 | 119 | 147 | 9 | 48 | 102 |
+| last180d | 2026-05-23 | 15 | 308 | 209 | 48 | 83 | 401 |
+| 360d | 2025-11-24 | 33 | 549 | 229 | 165 | 109 | 906 |
+| last720d | 2024-11-29 | 58 | 1107 | 232 | 534 | 142 | 2291 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for helm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:31:40Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:35:48Z._
