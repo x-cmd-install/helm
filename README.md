@@ -14,11 +14,11 @@ x install helm
 
 ## Code insight
 
-Total: **91,777** lines of code across **1336** files in the top 5 languages.
+Total: **91,785** lines of code across **1335** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 81,578 | 16,901 | 13,408 | 560 |
+| Go | 81,586 | 16,887 | 13,402 | 559 |
 | Yaml | 7,638 | 827 | 367 | 702 |
 | Bash | 728 | 131 | 83 | 3 |
 | Pan | 623 | 4 | 101 | 53 |
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 30,474 · **Forks**: 7,931 · **Open issues**: 8,551 · **Contributors**: 860
+- **Stars**: 30,486 · **Forks**: 7,931 · **Open issues**: 8,553 · **Contributors**: 861
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 4876 · **Open PRs**: 244 · **Closed issues**: 8283 · **Open issues**: 268 · **Commits**: 10051
+- **Releases**: 258 · **Merged PRs**: 4877 · **Open PRs**: 245 · **Closed issues**: 8283 · **Open issues**: 270 · **Commits**: 10052
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 43 | 74 | 1 | 25 | 27 |
-| last60d | 2026-09-25 | 3 | 78 | 123 | 2 | 43 | 54 |
-| 90d | 2026-08-26 | 7 | 120 | 161 | 9 | 54 | 98 |
-| last180d | 2026-05-28 | 15 | 310 | 217 | 52 | 84 | 392 |
-| 360d | 2025-11-29 | 32 | 548 | 235 | 165 | 110 | 897 |
-| last720d | 2024-12-04 | 58 | 1112 | 239 | 536 | 143 | 2291 |
+| 30d | 2026-10-26 | 1 | 39 | 75 | 1 | 26 | 28 |
+| last60d | 2026-09-26 | 3 | 79 | 124 | 2 | 44 | 55 |
+| 90d | 2026-08-27 | 7 | 121 | 160 | 8 | 53 | 99 |
+| last180d | 2026-05-29 | 15 | 309 | 217 | 51 | 86 | 393 |
+| 360d | 2025-11-30 | 32 | 549 | 236 | 163 | 112 | 898 |
+| last720d | 2024-12-05 | 58 | 1113 | 240 | 535 | 145 | 2290 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for helm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:27:23Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:22:15Z._
